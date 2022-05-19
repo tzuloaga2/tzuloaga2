@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello hello 👋, I'm Tatiana Zuloaga</h1>
+<h1 align="center">Hello hello, I'm Tatiana Zuloaga👋</h1>
 - 🔭 I’m currently working on **AWS oriented projects**
 
 - 🌱 I’m currently learning **Java**
