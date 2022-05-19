@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Tatiana Zuloaga</h1>
+<h1 align="center">Hello hello 👋, I'm Tatiana Zuloaga</h1>
 - 🔭 I’m currently working on **AWS oriented projects**
 
 - 🌱 I’m currently learning **Java**
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **tatianazuloagas@gmail.com**
 
-<h3 align="left">Connect with me!:</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
 </p>
 
